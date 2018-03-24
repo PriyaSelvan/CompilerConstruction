@@ -1,5 +1,5 @@
 # CompilerConstruction
-Interview assignment for compiler costruction
+Python Interpreter
 
 
 The given grammar contains tokens, x (NAME), n (INTEGER) and literals +,-,*,/,=. It also consists of a reserved word 'print'.
